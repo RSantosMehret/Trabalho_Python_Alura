@@ -3,3 +3,28 @@ trabalho de iniciação a programação
 integrantes: 
 Rafael Santos Mehret-24
 Rafael Barreto dos Anjos Junior-23
+
+
+//FOR
+//cada iten Individual que é processado dentro do laço
+//exemplo:
+  nomes-["Carlos", "Ana", "Pedro, "Maria"]
+  for nome in nomes:
+  print(nome)
+//tradução: una lista de nomes, o for vai atribuir a variável nome, exibindo no terminal cada nome até ataler os nomes da lista
+
+//WHILE:
+//executa un comando desde que FOR for verdadeiro.
+//Exemplo:
+  contador = 0
+  while contador<5:
+  print (fcontador atual: {contador}")
+  contador += 1
+//tradução: contador começa igual a zero, o WHILE vê se o contador é menor que 5, se for menor: fale quanto vale o contador e adicione 1 ao contador, quando o contador chega a 5, a condição WHILE se torna falsa então ele para.
+
+//Loop infinito:
+//Com o while só parando quando a condição é falsa, se a condição não poder se torann falsa, então se cria un loop Infinito.
+  contador=0
+  while contadoro>5:
+  print ("contador", contador)
+//traduçãos: como contador nunca se torna malor que 5, a palavra contador é spamada indefinidamente
